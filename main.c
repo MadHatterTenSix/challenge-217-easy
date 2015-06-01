@@ -47,7 +47,7 @@
           diff = 1; 
         }
         grid[index] += diff;
-        nLogs -= diff;;
+        nLogs -= diff;
       }
       
       /* Print grid. */
