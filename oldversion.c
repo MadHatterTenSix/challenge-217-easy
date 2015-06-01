@@ -1,3 +1,10 @@
+/**
+ *
+ * @author __MadHatter (alias used on https://www.reddit.com/r/dailyprogrammer)
+ *
+ * http://www.reddit.com/r/dailyprogrammer/comments/3840rp/20150601_challenge_217_easy_lumberjack_pile/
+ */
+
 #include <stdio.h>
 
 #define MAX_GRID 100
